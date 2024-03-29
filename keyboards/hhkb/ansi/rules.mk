@@ -7,7 +7,7 @@ EXTRAKEY_ENABLE = yes  # Audio control and System control
 CONSOLE_ENABLE = yes   # Console for debug
 COMMAND_ENABLE = yes   # Commands for debug and configuration
 CUSTOM_MATRIX = yes    # Custom matrix file for the HHKB
-NKRO_ENABLE = no            # Enable N-Key Rollover
+NKRO_ENABLE = yes            # Enable N-Key Rollover
 BACKLIGHT_ENABLE = no  # Enable keyboard backlight functionality
 
 # project specific files
