@@ -22,6 +22,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 8
 
+/* mouse settings */
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MAX_SPEED 4
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.
